@@ -77,3 +77,5 @@ if __name__ == '__main__':
     print(list1)
     list2 = copy.deepcopy(list1)
     print(list2)
+
+    input()
