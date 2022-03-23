@@ -47,3 +47,5 @@ if __name__ == '__main__':
     find_unique_price_using_set(products)
     end_using_set = time.perf_counter()
     print("time elapse using set: {}".format(end_using_set - start_using_set))
+
+    input()
